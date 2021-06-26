@@ -1,0 +1,174 @@
+body{
+	width:890px;
+	margin:0 auto;
+	font:11pt,Arial;
+	color:#FFFFFF;
+	background-color:#A9A9A9	
+}
+		
+#company-logo1 {
+height:100px;
+width:100px;
+}
+
+#company-logo2 {
+height:100px;
+width:100px;
+float:right;
+}
+
+h1{
+font-size:80px;
+font-family:Arial;
+text-align:Center;
+color:#FF6347;
+}
+
+
+h5{
+font-size:20px
+font-family:Arial;
+text-align:Center;
+color:#FF4500;
+}
+
+
+nav {
+	display:block;
+	
+}
+
+ul {
+list-style-type:none;
+margin:35px;
+padding:0px;
+overflow:hidden;
+background:#FF4500;
+border-radius:40px;
+}
+
+li{
+float:none;}
+
+li a {
+display:block;
+color:#FFFFFF;
+text-align:center;
+padding:20px;
+text-decoration:none;
+}
+
+li a:hover:not(.active){
+background-color:#FF8C00;
+}
+.active{
+background-color:#FF8C00;
+}
+aside {
+	text-align:center;
+	font-size:60px;
+	border-style:solid;
+	color:#FFD700;
+	
+}
+
+#first_paragraph {
+	float:left;
+	width:450px;
+	text-align:justify;
+	border-style:ridge;
+	font-size:18px;
+	background-color:#FF8C00;
+	color:#000000;
+}
+#statehouse{
+float:left;
+width:200px;
+height:200px;
+}
+
+#jeffdescription{
+list-style:none;
+border-radius:10px;
+background:#FF6347;
+margin:0px;
+overflow:visible;
+}
+
+#lake{
+float:left;
+width:450px;
+height:200px;
+}
+
+#lilidescription{
+list-style:none;
+border-radius:10px;
+background:#FF6347;
+margin:0px;
+overflow:visible;
+}
+
+
+
+#second_paragraph {
+	float:right;
+	width:420px;
+	text-align:justify;
+	border-style:ridge;
+	font-size:18px;
+	background-color:#FF8C00;
+	color:#000000;
+}
+
+#pam{
+float:left;
+width:200px;
+height:200px;
+}
+
+#pamdescription{
+list-style:none;
+border-radius:10px;
+background:#FF6347;
+margin:0px;
+overflow:visible;
+}
+
+#ben{
+float:left;
+width:200px;
+height:200px;
+}
+
+#bendescription{
+list-style:none;
+border-radius:10px;
+background:#FF6347;
+margin:0px;
+overflow:visible;
+}
+footer{
+	clear:both;
+	height:135px;
+	width:890px;
+	border:hidden;
+	background-color:#696969;
+}
+
+
+#hours{
+text-align:right;
+color:#FF6347;
+text-decoration:underline;
+}
+
+#mon{
+text-align:right;
+color:#FF6347;
+}
+
+#sat{
+text-align:right;
+color:#FF6347;
+}
